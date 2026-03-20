@@ -24,7 +24,7 @@
             <li class="nav-items"><a href="#">TV</a></li>
             <li class="nav-items"><a href="#">ABHIRAM</a></li>
             <li class="nav-items"><a href="#">VIRRAT KOHLI</a></li>
-            <li class="nav-items"><a href="#">MONEYy yHEIST</a></li>
+            <li class="nav-items"><a href="#">MONEYY yHEIST</a></li>
             <li class="nav-items"><a href="#">BOMMALU AND DORA</a></li>
             <li class="icon"><a href="#"></a></li>
         </ul>
